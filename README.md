@@ -58,14 +58,42 @@ cp -r .agents/skills/* ~/.agents/skills/
 
 ---
 
-## 🚀 Guía de Uso
+## 🚀 Guía de Uso Rápido e Invocación
 
-1. Coloque los insumos del negocio o proyecto en su directorio de trabajo.
-2. Invoque la investigación estratégica en chat con el agente:
-   ```bash
-   "research fondo naming para una plataforma de analítica de datos en logística"
-   ```
-3. Siga la secuencia por compuertas hasta la generación del dossier final.
+El framework ofrece dos modos de interacción según la preferencia del usuario o del equipo:
+
+### Modo A: Flujo Guiado End-to-End (Recomendado)
+Para iniciar un proceso completo guiado por compuertas de validación (*Gates*), simplemente escriba en el chat con el agente:
+
+```text
+"Quiero iniciar un proyecto de naming para [descripción breve del negocio / producto / servicio]"
+```
+
+*Ejemplo:*
+> *"Quiero iniciar un proyecto de naming para una plataforma de ciberseguridad industrial dirigida a plantas manufactureras en Latinoamérica."*
+
+**Comportamiento automático del orquestador:**
+1. **Fase 0 (Documentación)**: Activa automáticamente `naming-research-fondo` + `naming-research-forma` procesadas con `escribe-humano` para generar `brief_fondo.md` (visión a 5 años, usuario y valor Ohmae) y `banco_lexico.md` (etimologías, glosarios de industria y slang urbano).
+2. **Fase 1 (Brief Maestro)**: Consolida `NAMING_BRIEF.md` y solicita confirmación binaria explícita del cliente antes de inventar palabras.
+3. **Fase 2 (Divergencia Cuantitativa)**: Activa `naming-divergence` para producir la lista larga estricta de ~70 nombres (`naming_longlist.md`) categorizados en los 6 motores morfosemánticos.
+4. **Fase 3 (Filtrado y Fichas A5)**: Activa `naming-filter` para destilar a 10–15 finalistas evaluados en aislamiento monocrómico (`naming_shortlist.md`).
+5. **Fase 4 (Clearing Registral)**: Ejecuta `naming-clearing` para auditar Clases de Niza, el Google Test en Página 1, disponibilidad de dominios y screening de colisión panhispánica (`naming_clearing_report.md`).
+6. **Fase 5 (Dossier y Pitch)**: Genera `DOSSIER_PRESENTACION_NAMING.md` con argumentación de psicología cognitiva (simbolismo fonético Bouba/Kiki, fluidez de procesamiento), desmonte de objeciones subjetivas y la Longlist como respaldo de rigor.
+
+---
+
+### Modo B: Invocación Modular Quirúrgica (Paso a Paso)
+Si desea ejecutar fases aisladas o integrarlas en sus propios workflows, puede invocar directamente cada skill mediante sus triggers reconocidos:
+
+| Paso del Flujo | Trigger Recomendado | Qué ejecuta el Agente | Artefacto Resultante |
+| :--- | :--- | :--- | :--- |
+| **0. Fondo** | `research fondo naming para [tema]` | Extrae visión a 5 años, arquetipo de usuario y propuesta Ohmae. | `brief_fondo.md` |
+| **0. Forma** | `research forma naming para [tema]` | Rastrea etimologías grecolatinas, jerga técnica y slang por ciudad. | `banco_lexico.md` |
+| **1. Brief** | `naming brief` o `crear brief naming` | Formaliza el briefing integral y define la arquitectura de marca. | `NAMING_BRIEF.md` |
+| **2. Divergencia**| `naming divergence` o `lista larga naming` | Genera la cuota métrica de ~70 nombres sin censura. | `naming_longlist.md` |
+| **3. Filtro** | `naming filter` o `shortlist naming` | Reduce a 10–15 nombres en Fichas A5 con tipologías balanceadas. | `naming_shortlist.md` |
+| **4. Clearing**| `naming clearing` o `viabilidad legal naming` | Audita Niza, Google pág. 1, dominios y doble sentido en Latam/España. | `naming_clearing_report.md` |
+| **5. Pitch** | `naming pitch` o `presentar naming` | Construye el dossier de defensa con psicología cognitiva y anexos. | `DOSSIER_PRESENTACION_NAMING.md` |
 
 ---
 
