@@ -1,0 +1,7 @@
+# Entorno y dependencias
+.env
+*.log
+
+# Temporales de sistema
+.DS_Store
+Thumbs.db
