@@ -46,3 +46,4 @@ Generar `naming_shortlist.md` conteniendo:
 ## References
 
 - `references/isolation-test.md` — Protocolo de evaluación individual (Ficha A5) y tipologías de nombres.
+- `assets/ficha-a5-template.md` — Plantilla ejecutable de renderizado de Ficha A5 monocrómica.
