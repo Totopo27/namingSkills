@@ -3,8 +3,8 @@ name: naming-research-fondo
 description: "Trigger: research fondo naming, auditar negocio naming, propuesta ohmae naming. Investiga vision, usuario real y valor estructural."
 license: Apache-2.0
 metadata:
-  author: "Gentleman-Programming"
-  version: "1.0"
+  author: "Totopo27"
+  version: "1.1"
 ---
 
 # Skill: naming-research-fondo

@@ -1,17 +1,26 @@
-# Guía de Defensa y Argumentación de Naming ante Clientes
+# Guía de Defensa, Argumentación y Psicología Cognitiva de Naming
 
-En las presentaciones de naming, el mayor enemigo es la subjetividad del cliente y de sus comités ("a mi cuñado no le gusta", "a mí me recuerda a otra cosa", "lo quiero más corto"). Xavier Grau enseña cómo desarmar estas objeciones con técnica profesional:
+En las presentaciones de naming, el mayor obstáculo es la subjetividad del cliente o de sus comités ("a mi socio no le gusta", "a mí me suena raro", "lo quiero más corto"). Esta guía sistematiza el desmonte técnico de estas objeciones mediante psicología cognitiva y rigor metodológico:
 
-### 1. El Mantra de Defensa: "El Nombre es para tu Usuario, no para Ti"
-- Cuando el cliente diga: *"Es que no me convence la terminación o no es mi estilo"*, la respuesta técnica es:
-  > *"Comprendo tu reacción individual, pero este nombre no está diseñado para tu gusto personal en una mesa de reuniones; está construido para el usuario arquetípico que interactúa con tu servicio a diario. Para ese usuario, este término detona exactamente la propuesta de valor que acordamos en el brief."*
+### 1. El Mantra Rector: "El Nombre es para el Usuario, no para la Sala de Juntas"
+- Ante la objeción: *"Es que no es mi estilo o no me convence cómo suena"*:
+  > *"Comprendo tu reacción individual, pero este término no está diseñado para tu gusto personal en una mesa de reuniones; está construido para el usuario arquetípico que interactúa con tu servicio a diario. Para ese usuario, este nombre detona con precisión la propuesta de valor estructural que acordamos en el brief."*
 
-### 2. El Desmonte del Mito del "Nombre Corto"
-- Cuando el cliente exija: *"Quiero que sea corto y fácil"*:
-  > *"Un nombre excesivamente corto (3 a 5 letras) en la actualidad sufre dos desventajas críticas: es infinitamente más costoso y complejo de registrar legalmente (altísima tasa de colisión en las clases de Niza) y cuesta cientos de miles de dólares posicionarlo en la primera página de Google frente a acrónimos globales. Un nombre con mayor riqueza silábica o rítmica se protege mejor, tiene mayor memorabilidad y despeja el camino registral."*
+### 2. Fundamentos de Psicología Cognitiva Aplicada al Naming
+- **Fluidez de Procesamiento (*Processing Fluency*)**:
+  - El cerebro asocia la facilidad de decodificación y ritmo fonético con veracidad, confianza y menor riesgo de compra.
+  - Nombres con cadencias limpias reducen el esfuerzo cognitivo del usuario y aceleran el reconocimiento de marca.
+- **Simbolismo Fonético (*Bouba / Kiki Effect*)**:
+  - **Oclusivas y consonantes duras (T, K, P, B, D, G)**: Evocan precisión, potencia, estructura, velocidad y tecnología (óptimas para B2B, finanzas, ingeniería y plataformas SaaS).
+  - **Líquidas, nasales y fricativas (L, M, N, S, V, F)**: Evocan suavidad, confort, cercanía, bienestar y calma (óptimas para descanso, salud, gastronomía y hospitalidad).
+- **Anclaje con Novedad Asimilable**:
+  - Nombres que fusionan una raíz conocida con una terminación inesperada generan curiosidad sin provocar rechazo por extrañeza extrema.
 
-### 3. El Valor de Entregar la Longlist Completa
-- ¿Por qué entregar la lista larga de 70 nombres en el dossier final?
-  1. **Evidencia de rigor**: Muestra que el nombre final no fue una ocurrencia espontánea de 10 minutos, sino el resultado de un filtrado implacable tras dos días de inmersión documental.
-  2. **Justificación del honorario**: Demuestra el proceso de descarte sistemático.
-  3. **Cierre de debates estériles**: Cuando un directivo proponga en la reunión una ocurrencia obvia ("¿Y por qué no le ponemos BiciSol?"), se le señala la Longlist: *"Esa opción fue explorada en el candidato #14 y descartada por saturación conceptual y debilidad registral"*.
+### 3. El Desmonte del Mito del "Nombre Corto"
+- Ante la objeción: *"Quiero un nombre muy corto de 3 o 4 letras"*:
+  > *"Un nombre hipercorto hoy en día sufre dos desventajas críticas: es casi imposible de registrar legalmente debido a la saturación extrema en las clases de Niza, y exige millones de dólares para competir en Google contra acrónimos y corporaciones globales. Una estructura silábica con mayor personalidad y riqueza métrica se protege mejor, tiene mayor memorabilidad y despeja el camino registral."*
+
+### 4. El Valor Estratégico de Entregar la Longlist de 70 Nombres
+1. **Evidencia irrefutable de rigor**: Muestra que las opciones finales son fruto de un filtrado implacable tras una inmersión documental sistemática.
+2. **Justificación del honorario**: Demuestra el proceso de descarte profesional.
+3. **Cierre definitivo de debates**: Cuando un directivo sugiera una ocurrencia improvisada ("¿Y por qué no le ponemos BiciSol?"), se le señala la Longlist: *"Esa alternativa fue analizada en el candidato #14 y descartada por saturación conceptual y debilidad registral"*.

@@ -3,8 +3,8 @@ name: naming-filter
 description: "Trigger: naming filter, lista corta naming, shortlist naming, aislar nombres naming. Destila la lista larga a 10-15 nombres mediante pruebas de aislamiento."
 license: Apache-2.0
 metadata:
-  author: "Gentleman-Programming"
-  version: "1.0"
+  author: "Totopo27"
+  version: "1.1"
 ---
 
 # Skill: naming-filter
@@ -31,7 +31,7 @@ Activa tras completar la lista larga (`naming_longlist.md`) para realizar la sel
 ## Execution Steps
 
 1. Leer `naming_longlist.md` y confrontar cada candidato con los requisitos de `NAMING_BRIEF.md`.
-2. Ejecutar la primera pasada intuitiva de marcado (los nombres que "te miran" y conectan con la propuesta de valor).
+2. Ejecutar la primera pasada intuitiva de marcado (los nombres con mayor tracción conceptual y conexión con la propuesta de valor).
 3. Evaluar cada preseleccionado bajo la prueba de aislamiento: Ficha A5 monocrómica.
 4. Categorizar la selección para asegurar balance entre opciones seguras y opciones audaces/disruptivas.
 5. Seleccionar exactamente entre 10 y 15 candidatos para la shortlist.

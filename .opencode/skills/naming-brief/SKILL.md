@@ -3,8 +3,8 @@ name: naming-brief
 description: "Trigger: naming brief, crear brief naming, estructurar brief naming. Consolida el briefing integral de fondo y forma para proyectos de naming."
 license: Apache-2.0
 metadata:
-  author: "Gentleman-Programming"
-  version: "1.0"
+  author: "Totopo27"
+  version: "1.1"
 ---
 
 # Skill: naming-brief
@@ -25,7 +25,7 @@ Activa cuando se debe formalizar el documento de directrices de un proyecto de n
 | Condición de Mercado | Definición en Brief |
 | :--- | :--- |
 | Producto digital / SaaS / Web | Idioma: Inglés universal o neologismo fonético global. Registro: Clase 9 / 42. Dominio: `.com` prioritario. |
-| Servicio local o de barrio (hostelería, clínica) | Idioma: Lengua vernácula o español contextual. Registro: Clase respectiva, protección nacional. |
+| Servicio local o de proximidad (hostelería, clínica) | Idioma: Lengua vernácula o español contextual. Registro: Clase respectiva, protección nacional. |
 | Marca de lujo / autor / packaging físico | Idioma: Evocativo o toponímico. Énfasis en sonoridad, métrica y significado profundo. |
 
 ## Execution Steps
