@@ -30,7 +30,7 @@ Activa cuando se debe preparar la presentación formal, el dossier de entrega y 
 ## Execution Steps
 
 1. Ingestar las opciones validadas en verde de `naming_clearing_report.md`.
-2. Redactar para cada opción final (entre 3 y 5) su **Ficha de Defensa**:
+2. Redactar para cada una de las 10 opciones finales su **Ficha de Defensa**:
    - Nombre en tipografía limpia.
    - Origen etimológico o morfológico.
    - Relación directa con la propuesta de valor Ohmae.
@@ -43,7 +43,7 @@ Activa cuando se debe preparar la presentación formal, el dossier de entrega y 
 
 Generar `DOSSIER_PRESENTACION_NAMING.md` redactado bajo las pautas de `escribe-humano` con:
 - `Executive_Summary`: El marco estratégico acordado.
-- `Final_Proposals`: 3 a 5 fichas individuales de defensa centradas en el usuario (sin prosa corporativa edulcorada ni moralejas).
+- `Final_Proposals`: Exactamente 10 fichas individuales de defensa centradas en el usuario (sin prosa corporativa edulcorada ni moralejas).
 - `Cognitive_Arguments`: Respaldo de psicología del consumidor y simbolismo fonético.
 - `Anticipated_Objections`: Respuestas técnicas a posibles sesgos del cliente.
 - `Process_Evidence`: La Longlist de 70 nombres como respaldo de rigor y valor facturable.

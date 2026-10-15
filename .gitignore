@@ -5,3 +5,13 @@
 # Temporales de sistema
 .DS_Store
 Thumbs.db
+
+# Datos privados de proyectos y casos de naming del usuario (solo local)
+mis-proyectos/
+brief_fondo.md
+banco_lexico.md
+NAMING_BRIEF.md
+naming_longlist.md
+naming_shortlist.md
+naming_clearing_report.md
+DOSSIER_PRESENTACION_NAMING.md

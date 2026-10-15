@@ -48,7 +48,7 @@
    │   - Búsqueda en bases de marcas (WIPO, INAPI, OEPM, EUIPO)      │
    │   - Verificación de dominios web y filtros lingüísticos         │
    │   - Degradación elegante para ejecución offline / air-gapped    │
-   │   - COMPUERTA 4: 3 a 5 nombres con semáforo verde o mitigable   │
+   │   - COMPUERTA 4: 10 nombres con semáforo verde o mitigable      │
    └──────────────────────────────┬──────────────────────────────────┘
                                   │
                                   ▼
@@ -74,7 +74,7 @@
 | **2. Divergencia** | `naming-divergence` | `naming_longlist.md` | ¿Se alcanzaron numéricamente los 70 nombres clasificados en los 6 motores sin autocensura? |
 | **3. Filtro** | `naming-filter` | `naming_shortlist.md` | ¿Se redujo la lista a exactamente 10-15 nombres evaluados en aislamiento visual A5 y con tipologías diversas? |
 | **4. Clearing** | `naming-clearing` | `naming_clearing_report.md` | ¿Los finalistas superaron el test de Google página 1, la clase de Niza y el filtro lingüístico internacional (online u offline)? |
-| **5. Pitch** | `naming-pitch` + `escribe-humano` | `DOSSIER_PRESENTACION_NAMING.md` | ¿Las fichas de defensa están fundamentadas en el usuario y psicología cognitiva, con la Longlist como prueba de rigor? |
+| **5. Pitch** | `naming-pitch` + `escribe-humano` | `DOSSIER_PRESENTACION_NAMING.md` | ¿Las fichas de defensa presentan 10 opciones validadas, fundamentadas en el usuario y psicología cognitiva, con la Longlist como prueba de rigor? |
 
 ---
 

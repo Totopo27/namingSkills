@@ -52,7 +52,7 @@ Activa cuando la lista corta (`naming_shortlist.md`) esté conformada y se deba 
 Generar `naming_clearing_report.md` con:
 - Tabla de dictamen preliminar por candidato: `Nombre`, `Clase Niza`, `Riesgo Registral`, `Riesgo Google Pág 1`, `Estado Dominio Web`, `Semáforo Final`.
 - Estrategias de mitigación para nombres en Amarillo.
-- Selección final de opciones limpias (entre 3 y 6 nombres aptos para la propuesta al cliente).
+- Selección final de opciones limpias (exactamente 10 nombres aptos y priorizados para el dossier de pitch).
 
 ## References
 
